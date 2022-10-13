@@ -24,3 +24,12 @@ pw: root
 
 login: admin
 pw: admin
+
+* Admin-PC
+
+
+login: root
+pw: root
+
+login: admin
+pw: admin
