@@ -1,0 +1,3 @@
+Host PC nicht direkt zu DNS -> Switch oder Wolke
+Richtung Proxy kommt Router
+HostPC macht NAT und DNS
