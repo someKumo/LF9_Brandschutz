@@ -15,7 +15,7 @@ Vmnet8
 
 ## Bezeichnungen
 
-* IP-Fire
+IP-Fire
 - Hostname: brandschutz
 - Domain: ipfire
 
@@ -25,7 +25,7 @@ Vmnet8
 - login: admin
 - pw: admin
 
-* Admin-PC
+Admin-PC
 
 - login: root
 - pw: root
